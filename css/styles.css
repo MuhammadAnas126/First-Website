@@ -5,6 +5,8 @@
     --color-accent: #ff340f;
     --color-headings: #1b0760;
     --color-body: #918ca4;
+    --color-border: #cccccc;
+    --border-radius: 30px;
 }
 *, *::after, *::before {
     box-sizing: border-box;
@@ -198,3 +200,33 @@ a {
         font-size: 1.5rem;
     }
 } 
+/* Inputs */
+.input {
+    border-radius: var(--border-radius);
+    padding: 1.5rem 3.5rem;
+    font-size: 2rem;
+    outline: none;
+    color: var(--color-headings);
+    
+}
+::placeholder {
+    color: var(--color-border);
+}
+.input-group {
+    display: flex;
+    border-radius: var(--border-radius);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
+}
+.input-group .input {
+    flex-grow: 1;
+    border: none;
+}
+.input-group .btn {
+    margin: 4px;
+}
+
+@media screen and (min-width: 1024px) {
+    .input {
+        font-size: 1.5rem;
+    }
+}                       
