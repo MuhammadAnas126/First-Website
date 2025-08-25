@@ -205,6 +205,10 @@ a {
 .btn--accent:hover {
     background: #ec3000;
 }
+.btn--stretched {
+    padding-left: 9rem;
+    padding-right: 9rem;
+}
 .btn--block{
     width: 100%;
     display: inline-block;
@@ -429,4 +433,53 @@ a {
     .testimonial .quote{
         margin-left: 6rem;
     }
+}
+
+/* Callouts */
+.callout {
+    padding: 4rem;
+    border-radius: 5px;
+}
+.callout--primary {
+    background: var(--color-primary);
+    color: #fff;
+}
+
+.callout__heading {
+    color: #fff;
+    font-size: 4rem;
+    margin: 0;
+}
+
+.callout .btn {
+    justify-self: center;
+    align-self: center;
+}
+
+.callout__content {
+    text-align: center;
+}
+
+.callout__text {
+    font-size: 2.4rem;
+}
+
+@media screen and (min-width: 768px) {
+    .callout .grid--1x2 {
+        grid-template-columns: 1fr auto;
+    }
+    .callout__heading {
+        font-size: 4rem;
+    }
+    .callout__text {
+        font-size: 2rem;
+    }
+    .callout__content {
+        text-align: left;
+    }
+    .callout .btn {
+        justify-self: start;
+        margin: 0 2rem;
+    }
+    
 }
