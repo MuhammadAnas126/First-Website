@@ -559,6 +559,7 @@ a {
 }
 .block__header {
     text-align: center;
+    margin-bottom: 4rem;
 }
 .block__heading {
     margin-top: 0;
@@ -569,9 +570,11 @@ a {
     color: #7b858b;
 }
 
-.block--dark h1, h2, h3 {
+.block--dark h1,
+.block--dark h2,
+.block--dark h3 {
     color: #fff;
-}
+}         
 
 .block--skewed-right {
     padding-bottom: calc(--padding-vertical) + 4rem;
@@ -683,13 +686,13 @@ a {
 
 .block-domain__prices {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 6rem);
     font-size: 2rem;
     font-weight: 600;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 6rem);
     justify-items: center;
-    max-width: 700px;
     margin: 0 auto;
+    max-width: 700px;
 }
 
 @media screen and (min-width: 768px) {
