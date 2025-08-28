@@ -177,10 +177,10 @@ a {
     cursor: pointer;
     font-size: 1.8rem;
     font-weight: 600;
-    text-align: center;
     margin: 1rem 0;
     outline: 0;
-    padding: 2rem 3rem;
+    padding: 2rem 4vw;
+    text-align: center;
     text-transform: uppercase;
     white-space: nowrap;
 }
@@ -249,12 +249,15 @@ a {
     color: var(--color-border);
 }
 .input-group {
+    border: 1px solid var(--color-border);
     display: flex;
     border-radius: var(--border-radius);
 }
 .input-group .input {
     flex-grow: 1;
-    border: none;
+    border: 0;
+    width: 0;
+    padding: 1.5rem 2rem;
 }
 .input-group .btn {
     margin: 4px;
@@ -273,7 +276,7 @@ a {
     overflow: hidden;
 }
 .card__header, .card__body  {
-    padding: 2rem 3rem;
+    padding: 2rem 7%;
 }
 .card--primary .card__header {
     background: var(--color-primary);
@@ -474,6 +477,7 @@ a {
 .callout {
     padding: 4rem;
     border-radius: 5px;
+
 }
 .callout--primary {
     background: var(--color-primary);
@@ -482,8 +486,8 @@ a {
 
 .callout__heading {
     color: #fff;
-    font-size: 4rem;
-    margin: 0;
+    font-size: 3rem;
+    margin-top: 0;
 }
 
 .callout .btn {
@@ -689,10 +693,11 @@ a {
 }
 
 .block-domain__prices {
+    color: var(--color-headings);
     display: grid;
     font-size: 2rem;
     font-weight: 600;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-template-rows: repeat(2, 6rem);
     justify-items: center;
     margin: 0 auto;
