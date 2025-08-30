@@ -1,0 +1,60 @@
+[33m0b06574[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrestore-project[m[33m, [m[1;31morigin/restore-project[m[33m)[m HEAD@{0}: checkout: moving from 0b06574b22295f71c9031fff8a83a888f059e143 to restore-project
+[33m0b06574[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrestore-project[m[33m, [m[1;31morigin/restore-project[m[33m)[m HEAD@{1}: checkout: moving from main to 0b06574
+[33me428ee2[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m HEAD@{2}: commit: .
+[33m0b06574[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrestore-project[m[33m, [m[1;31morigin/restore-project[m[33m)[m HEAD@{3}: reset: moving to 0b06574
+[33m0b06574[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrestore-project[m[33m, [m[1;31morigin/restore-project[m[33m)[m HEAD@{4}: reset: moving to HEAD~22
+[33m0a25518[m HEAD@{5}: reset: moving to HEAD~22
+[33m1db57be[m HEAD@{6}: commit: .
+[33mf825ef7[m HEAD@{7}: commit: .
+[33m7a253b9[m HEAD@{8}: commit: .
+[33md00a24c[m HEAD@{9}: commit: .
+[33md02d67f[m HEAD@{10}: commit: .
+[33mde88bd8[m HEAD@{11}: commit: .
+[33mac7400c[m HEAD@{12}: commit: .
+[33m0cc28a2[m HEAD@{13}: commit: .
+[33m26198b8[m HEAD@{14}: commit: changing sprite.
+[33med6e009[m HEAD@{15}: commit: checking3
+[33mb9f224d[m HEAD@{16}: commit: package.json changes.
+[33m1b1c74a[m HEAD@{17}: commit: Add parcel for build
+[33m3cd8686[m HEAD@{18}: commit: Changes2
+[33m3e384c2[m HEAD@{19}: commit: .
+[33m0e42ff2[m HEAD@{20}: commit: Icons problem solving.
+[33mae9b9ad[m HEAD@{21}: commit: Correcting errors.
+[33ma4ca9ef[m HEAD@{22}: commit: Fix sprite.svg path for Netlify deployment
+[33m937e549[m HEAD@{23}: commit: unchanged
+[33m53cec15[m HEAD@{24}: commit: changing icons
+[33m66a5365[m HEAD@{25}: commit: Checking.
+[33mc05dde3[m HEAD@{26}: commit: Checking errors
+[33mc2400d3[m HEAD@{27}: commit: checking.
+[33m0a25518[m HEAD@{28}: commit: Adding labels.
+[33m08493e5[m HEAD@{29}: commit: Update the price.
+[33mb95f61e[m HEAD@{30}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb95f61e[m HEAD@{32}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb95f61e[m HEAD@{34}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb95f61e[m HEAD@{36}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb95f61e[m HEAD@{38}: Branch: renamed refs/heads/main to refs/heads/main
+[33mb95f61e[m HEAD@{40}: commit: Putting all togather
+[33m5654a1f[m HEAD@{41}: commit: Creating Footer block.
+[33m0c01a06[m HEAD@{42}: commit: Creating Testimonial.
+[33m8ae5b0a[m HEAD@{43}: commit: Creating Showcase Block.html
+[33m10ab172[m HEAD@{44}: commit: Creating feature block.
+[33m95ca75c[m HEAD@{45}: commit: Creating Plan block
+[33m714193f[m HEAD@{46}: commit: Creating Domain block.
+[33ma8f3324[m HEAD@{47}: commit: Creating Hero.
+[33m7146ffd[m HEAD@{48}: commit: Creating Navigation Bar.
+[33md7f5744[m HEAD@{49}: commit: creating block.
+[33m5984046[m HEAD@{50}: commit: Creating Collapsible.
+[33m323b380[m HEAD@{51}: commit: Creating Callout.
+[33m8de53ab[m HEAD@{52}: commit: Customer card
+[33mf22d572[m HEAD@{53}: commit: popular badge.
+[33md3be5c2[m HEAD@{54}: commit: Creating Quotes.
+[33medf4100[m HEAD@{55}: commit: Media objects.
+[33m07e457b[m HEAD@{56}: commit: Making Full Card
+[33m212409a[m HEAD@{57}: commit: Creating card.
+[33me505f5d[m HEAD@{58}: commit: input fields.
+[33mf9dbc61[m HEAD@{59}: commit: buttons.
+[33m0b06574[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrestore-project[m[33m, [m[1;31morigin/restore-project[m[33m)[m HEAD@{60}: commit: Displaying Icons.
+[33m06294f5[m HEAD@{61}: commit: Creatinf lists.
+[33m0786c57[m HEAD@{62}: commit: Creating badges.
+[33m2ef8f32[m HEAD@{63}: commit: Defines the styles for the font.
+[33ma7d3045[m HEAD@{64}: commit (initial): Define the color palette.

@@ -11,6 +11,14 @@
   "type": "commonjs",
   "devDependencies": {
     "parcel": "^2.15.4",
-    "parcel-bundler": "^1.12.4"
-  }
+    "parcel-bundler": "^1.12.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammadAnas126/First-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MuhammadAnas126/First-Website/issues"
+  },
+  "homepage": "https://github.com/MuhammadAnas126/First-Website#readme"
 }
